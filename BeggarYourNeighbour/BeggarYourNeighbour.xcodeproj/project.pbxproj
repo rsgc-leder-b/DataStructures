@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		81A367651E01C9650035179C /* BeggarYourNeighbour */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BeggarYourNeighbour; sourceTree = BUILT_PRODUCTS_DIR; };
-		81A367681E01C9650035179C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		81A367681E01C9650035179C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = main.swift; sourceTree = "<group>"; tabWidth = 15; usesTabs = 1; };
 		81A3676F1E01C9C10035179C /* 15_Structures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 15_Structures.playground; sourceTree = "<group>"; };
 		81A367701E01C9C10035179C /* 19_EnumsAndSwitch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 19_EnumsAndSwitch.playground; sourceTree = "<group>"; };
 		81A367711E01CA0D0035179C /* BeggarYourNeighbourLogic.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BeggarYourNeighbourLogic.playground; sourceTree = "<group>"; };
@@ -261,6 +261,7 @@
 				81A3676E1E01C9650035179C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
